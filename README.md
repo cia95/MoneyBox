@@ -24,3 +24,9 @@ As part of this process however, you should look to refactor some of the code in
 Once you have completed your work, send us a link to your public repository.
 
 Good luck!
+
+
+##Claudia
+
+* Added new project, named MoneyBox, and added a reference to Moneybox.App project in order to compile and run my solution
+* Tried to implement WithdrawMoney.Execute(...)
